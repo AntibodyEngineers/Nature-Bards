@@ -1,2 +1,46 @@
-Run the .ipynb file in Jupyter Notebook to produce a midi output of the sonified protein. 
-Midi and .mxl (music xml) files can be edited/viewed/played in free software such as MuseScore.
+
+August, 2025
+# Nature's BARDS 🧬
+<img src="images/logo.png" alt="Logo" height="300">
+
+## Overview
+This project explores protein sequences found in nanobodies and translates it into music!
+
+### Goals
+1. Learn about nanobodies and their sequences.
+2. Explore existing databases such as SabDab and Echinobase to extract protein sequences.
+3. Analyze musical patterns to potentially design proteins,
+
+
+### Outcomes
+1. Understand 
+
+
+### Team Members
+
+| Name     | Role                                     |
+|----------|------------------------------------------|
+| Fatima   | Writer, SabDab Nano Curator              |
+| Samantha | Logo & Slides Designer                   |
+| Rojina   | Coder, Technical Writer                  |
+| Jacob    | Code, Technical Writer, Music Liaison    |
+| Afsheen  | SabDab Nano Curator, Echinobase Explorer |
+| Ei Kay   | Coder, Echinobase Explorer               |                                           
+| Thomas   | Leader                                   |
+      
+
+
+## Tools & Software
+  - Colab Notebook
+  - Jypter Notebook
+  - Sonifcication tool (MIDI conversion or python library)
+  - SabDab protein database
+  - Echinobase marine (proteins)
+
+### 
+
+
+## Citations
+
+###
+
