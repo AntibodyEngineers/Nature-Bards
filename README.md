@@ -1,5 +1,5 @@
 
-August, 2025
+August 7, 2025
 # Nature's BARDS 🧬
 <img src="images/logo.png" alt="Logo" height="300">
 
@@ -23,7 +23,7 @@ This project explores protein sequences found in nanobodies and translates it in
 | Fatima   | Writer, SabDab Nano Curator              |
 | Samantha | Logo & Slides Designer                   |
 | Rojina   | Coder, Technical Writer                  |
-| Jacob    | Code, Technical Writer, Music Liaison    |
+| Jacob Sagrans    | Code, Technical Writer, Music Liaison    |
 | Afsheen  | SabDab Nano Curator, Echinobase Explorer |
 | Ei Kay   | Coder, Echinobase Explorer               |                                           
 | Thomas   | Leader                                   |
@@ -44,6 +44,8 @@ This project explores protein sequences found in nanobodies and translates it in
 Buehler, M. J. (2023). Unsupervised cross-domain translation via deep learning and adversarial attention neural networks and application to music-inspired protein designs. Patterns, 4(3). https://doi.org/10.1016/j.patter.2023.100692 
 
 Echinobase. (n.d.). Echinobase. https://www.echinobase.org/echinobase/
+
+Hacisuleyman, A., Erman, B. ModiBodies: A computational method for modifying nanobodies in nanobody-antigen complexes to improve binding affinity and specificity. J Biol Phys 46, 189–208 (2020). https://doi.org/10.1007/s10867-020-09548-3
 
 MuseScore. (n.d.). MuseScore (music notation software). https://musescore.org/en
 
