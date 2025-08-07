@@ -49,6 +49,6 @@ MuseScore. (n.d.). MuseScore (music notation software). https://musescore.org/en
 
 SAbDab. (n.d.) SAbDab: The Structural Antibody Database. https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabdab
 
-Yu, C.-H., Qin, Z., Martin-Martinez, F. J., Buehler, M. J. (2019). A self-consistent sonification method to translate amino acid sequences into  musical compositions and application in protein design using artificial intelligence. ACS Nano, 13(7), 7471-7482. https://www.doi.org/10.1021/acsnano.9b02180.
+Yu, C.-H., Qin, Z., Martin-Martinez, F. J., & Buehler, M. J. (2019). A self-consistent sonification method to translate amino acid sequences into  musical compositions and application in protein design using artificial intelligence. ACS Nano, 13(7), 7471-7482. https://www.doi.org/10.1021/acsnano.9b02180.
 ###
 
