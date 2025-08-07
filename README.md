@@ -39,23 +39,16 @@ This project blends **bioinformatics** and **music**, using sonification techniq
   - MuseScore (music notation)
   - SabDab (Structural Antibody Database)
   - Echinobase (Marine Proteins)
-    
 
+
+    
 ## User Guide 📝
 
-1. **Run the notebook**  
-   Open the provided `.ipynb` file in Jupyter Notebook or Google Colab. 
-   Execute the cells to convert nanobody amino acid sequences into MIDI files.
+  **Structure Files & Instructions**
+  - '2VYR'  - contains files related to the nanobody structure 2VYR
+  - 'KN035' - contains files related to the nanobdoy structure KN035
 
-3. **Output files**  
-   The program generates:  
-   - `.mid` (MIDI) files — digital music files playable by most media players  
-
-4. **Editing and playback**  
-   Use free software like [MuseScore](https://musescore.org/en) to:  
-   - Open and edit the MIDI files  
-   - Play back the sonified sequences for auditory analysis  
-   - Export audio or sheet music as needed
+  Inside each folder, open the  **'HOW TO USE'** file for instructions on how to use the files! 
 
 ---
 
