@@ -41,6 +41,10 @@ This project explores protein sequences found in nanobodies and translates it in
 
 
 ## Citations
+Buehler, M. J. (2023). Unsupervised cross-domain translation via deep learning and adversarial attention neural networks and application to music-inspired protein designs. Patterns, 4(3). https://doi.org/10.1016/j.patter.2023.100692 
 
+MuseScore. (n.d.). MuseScore (music notation software). https://musescore.org/en
+
+Yu, C.-H., Qin, Z., Martin-Martinez, F. J., Buehler, M. J. (2019). A self-consistent sonification method to translate amino acid sequences into  musical compositions and application in protein design using artificial intelligence. ACS Nano, 13(7), 7471-7482. https://www.doi.org/10.1021/acsnano.9b02180.
 ###
 
