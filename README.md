@@ -4,43 +4,72 @@ August 7, 2025
 <img src="images/logo.png" alt="Logo" height="300">
 
 ## Overview
-This project explores protein sequences found in nanobodies and translates it into music!
+This project blends **bioinformatics** and **music**, using sonification techniqus to analyze and design nanobody sequences. Our research explores the use of **music as 
 
-### Goals
+
+### Goals 🎯
 1. Learn about nanobodies and their sequences.
-2. Explore existing databases such as SabDab and Echinobase to extract protein sequences.
-3. Analyze musical patterns to potentially design proteins,
+2. Explore existing databases such as **SabDab** and **Echinobase** to extract protein sequences.
+3. Translate amino acid sequences into musical notes.
+4. Analyze musical patterns to potentially design proteins.
 
 
-### Outcomes
-1. Understand 
+### Outcomes 
+1. Convert protein sequences into MIDI/WAV files.
+2. Identify patterns in sonified nanobodies that may correlate with function.
+3. Contribute to the occ
 
 
-### Team Members
+### Team Members 
 
-| Name     | Role                                     |
-|----------|------------------------------------------|
-| Fatima   | Writer, SabDab Nano Curator              |
-| Samantha | Logo & Slides Designer                   |
-| Rojina   | Coder, Technical Writer                  |
-| Jacob Sagrans    | Code, Technical Writer, Music Liaison    |
-| Afsheen  | SabDab Nano Curator, Echinobase Explorer |
-| Ei Kay   | Coder, Echinobase Explorer               |                                           
-| Thomas   | Leader                                   |
-      
-
-
-## Tools & Software
-  - Colab Notebook
-  - Jypter Notebook
-  - Sonifcication tool (MIDI conversion or python library)
-  - SabDab protein database
-  - Echinobase marine (proteins)
-
-### 
+| Name              | Role                                     |
+|-------------------|------------------------------------------|
+| Fatima Ali        | Writer, SabDab Nano Curator              |
+| Samantha Barrera  | Logo & Slides Designer                   |
+| Rojina Magar      | Code, Technical Writer                   |
+| Jacob Sagrans     | Code, Technical Writer, Music Liaison    |
+| Afsheen Rahman    | SabDab Nano Curator, Echinobase Explorer |
+| Ei Kay Khaing Myo | Code, Echinobase Explorer                |                                           
+| Thomas Onorato    | Leader                                   |
 
 
-## Citations
+## Tools & Software 🛠️
+  - Colab Notebook / Jypter Notebook
+  - Python for sequence to sound mapping
+  - MIDI/WAV file export
+  - MuseScore (music notation)
+  - SabDab (Structural Antibody Database)
+  - Echinobase (Marine Proteins)
+    
+
+## User Guide 📝
+
+1. **Run the notebook**  
+   Open the provided `.ipynb` file in Jupyter Notebook or Google Colab. 
+   Execute the cells to convert nanobody amino acid sequences into MIDI files.
+
+3. **Output files**  
+   The program generates:  
+   - `.mid` (MIDI) files — digital music files playable by most media players  
+
+4. **Editing and playback**  
+   Use free software like [MuseScore](https://musescore.org/en) to:  
+   - Open and edit the MIDI files  
+   - Play back the sonified sequences for auditory analysis  
+   - Export audio or sheet music as needed
+
+---
+
+*Feel free to modify the notebook and mapping rules to explore different sonification schemes!*
+
+
+### Future Ideas 💡
+- Modify the code to accept **user input sequences** dynamically, so users don't have to edit the code for every run.  
+- Add features to export additional audio formats (e.g., WAV).  
+- Integrate pattern recognition tools to automate motif discovery from sonified data.  
+
+
+## Citations 📚
 Buehler, M. J. (2023). Unsupervised cross-domain translation via deep learning and adversarial attention neural networks and application to music-inspired protein designs. Patterns, 4(3). https://doi.org/10.1016/j.patter.2023.100692 
 
 Echinobase. (n.d.). Echinobase. https://www.echinobase.org/echinobase/
