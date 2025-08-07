@@ -45,7 +45,7 @@ Buehler, M. J. (2023). Unsupervised cross-domain translation via deep learning a
 
 Echinobase. (n.d.). Echinobase. https://www.echinobase.org/echinobase/
 
-Hacisuleyman, A., Erman, B. ModiBodies: A computational method for modifying nanobodies in nanobody-antigen complexes to improve binding affinity and specificity. J Biol Phys 46, 189–208 (2020). https://doi.org/10.1007/s10867-020-09548-3
+Hacisuleyman, A., & Erman, B. ModiBodies: A computational method for modifying nanobodies in nanobody-antigen complexes to improve binding affinity and specificity. J Biol Phys 46, 189–208 (2020). https://doi.org/10.1007/s10867-020-09548-3
 
 MuseScore. (n.d.). MuseScore (music notation software). https://musescore.org/en
 
